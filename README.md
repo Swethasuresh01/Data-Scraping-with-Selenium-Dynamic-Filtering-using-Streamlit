@@ -1,6 +1,7 @@
 # Data-Scraping-with-Selenium-Dynamic-Filtering-using-Streamlit
 
 **INTRODUCTION**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project demonstrates how to scrape dynamic web pages using Selenium and provide interactive filtering functionality through a Streamlit application. The tool is designed to help users extract and analyze data efficiently from dynamic websites with customizable filters.
 
