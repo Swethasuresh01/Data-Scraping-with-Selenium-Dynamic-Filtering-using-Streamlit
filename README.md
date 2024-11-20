@@ -20,7 +20,7 @@ This project demonstrates how to scrape data dynamically from the Redbus website
 * Streamlit
 * Pandas
 
-**SKIL-TAKEAWAY**
+**SKILL-TAKEAWAY**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Python scripting, Selenium, Data collection, Data management using SQL, Streamlit
 
@@ -28,6 +28,7 @@ This project demonstrates how to scrape data dynamically from the Redbus website
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * pandas as pd
 * mysql.connector
+* pymysql
 * import time
 * streamlit as slt
 * import webdriver
